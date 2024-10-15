@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="83623" started-at="2024-09-22T10:25:52Z" finished-at="2024-09-22T10:27:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="83623" started-at="2024-09-22T10:25:52Z" finished-at="2024-09-22T10:27:16Z">
+      <class name="com.Banking.tests.MultipleCustomerLoginTest">
+        <test-method status="PASS" signature="intilize()[pri:0, instance:com.Banking.tests.MultipleCustomerLoginTest@4563e9ab]" name="intilize" is-config="true" duration-ms="25036" started-at="2024-09-22T03:25:52Z" finished-at="2024-09-22T03:26:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intilize -->
+        <test-method status="PASS" signature="loginTest_TC1()[pri:0, instance:com.Banking.tests.MultipleCustomerLoginTest@4563e9ab]" name="loginTest_TC1" duration-ms="56193" started-at="2024-09-22T03:26:17Z" finished-at="2024-09-22T03:27:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest_TC1 -->
+        <test-method status="PASS" signature="close_browser()[pri:0, instance:com.Banking.tests.MultipleCustomerLoginTest@4563e9ab]" name="close_browser" is-config="true" duration-ms="2367" started-at="2024-09-22T03:27:13Z" finished-at="2024-09-22T03:27:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+      </class> <!-- com.Banking.tests.MultipleCustomerLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
